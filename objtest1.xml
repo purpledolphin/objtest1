@@ -27,7 +27,7 @@
                   <block type="oled_drawnumber" id="78" inline="true">
                     <value name="NUMBER">
                       <block type="sensor_light" id="116">
-                        <field name="LIGHT">RIGHT</field>
+                        <field name="LIGHT">LEFT</field>
                       </block>
                     </value>
                     <next>
